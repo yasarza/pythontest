@@ -1,6 +1,6 @@
 def func(x):
-    for x in range (100):
-        print (x)
+    for i in range (x):
+        print (i ** x)
 
 
-func(55)
+func(50)
